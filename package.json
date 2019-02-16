@@ -1,0 +1,25 @@
+{
+  "name": "the-cover-project-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandjiji/the-cover-project-bot.git"
+  },
+  "author": "xand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xandjiji/the-cover-project-bot/issues"
+  },
+  "homepage": "https://github.com/xandjiji/the-cover-project-bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request-promise": "^4.2.4",
+    "sharp": "^0.21.3",
+    "twitter": "^1.7.1"
+  }
+}

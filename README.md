@@ -1,0 +1,1 @@
+# the-cover-project-bot
