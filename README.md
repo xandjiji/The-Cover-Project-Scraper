@@ -29,5 +29,6 @@ node index.js
 
 Inside ```index.js```, use the argument to set an index from where you'll start scraping (from 1 to 16705):
 ```vai(1);```
+
 Also, all images will be compressed. You can change de quality (from 0 to 100) here:
 ```.jpeg( { quality: 50 } )```
