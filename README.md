@@ -1,4 +1,4 @@
-# The Cover Project Bot
+# The Cover Project Scraper
 
 An image scrapper for [The Cover Project](http://www.thecoverproject.net).
 
