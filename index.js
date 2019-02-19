@@ -13,10 +13,6 @@ const sharp = require('sharp');
 const url = 'http://www.thecoverproject.net/view.php?cover_id=';
 const baseURL = 'http://www.thecoverproject.net'
 
-// contadores
-let successCount = 0;
-let failCount = 0;
-let periodoMINUTOS = 60;
 
 sharp.cache(false);
 
